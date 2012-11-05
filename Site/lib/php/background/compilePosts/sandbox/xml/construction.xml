@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+  <title>Emory Construction Update</title>
+  <description>Emory Construction Update</description>
+  <link>
+ http://www.construction.emory.edu/constructionRSS_xml.cfm
+  </link>
+  
+    <item>
+    <title>Andrews Circle Closure</title>
+    <description>Andrews Circle Closure </description>
+    <link>
+    http://www.construction.emory.edu/displaynews.cfm?item=4282
+    </link>
+<guid>
+http://www.construction.emory.edu/displaynews.cfm?item=4282
+</guid>
+    </item>
+  
+  </channel>
+  </rss>
+  

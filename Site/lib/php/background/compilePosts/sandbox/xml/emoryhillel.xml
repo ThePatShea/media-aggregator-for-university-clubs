@@ -1,0 +1,1841 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:x-wr="http://www.w3.org/2002/12/cal/prod/Apple_Comp_628d9d8459c556fa#" xmlns:x-trumba="http://schemas.trumba.com/rss/x-trumba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:x-microsoft="http://schemas.microsoft.com/x-microsoft" xmlns:xCal="urn:ietf:params:xml:ns:xcal" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="2.0">
+	<channel>
+		<title>Hillel at Emory</title>
+		<link>http://emoryhillel.org/news/calendar.html</link>
+		<description>Events coming up at Hillel</description>
+		<language>en-us</language>
+		<lastBuildDate>18 Oct 2011 17:57:05 GMT</lastBuildDate>
+		<image>
+			<title>Calendar Feed powered by Trumba</title>
+			<url>http://www.trumba.com/images/trumba_logo_sm.gif</url>
+			<link>http://emoryhillel.org/news/calendar.html</link>
+		</image>
+		<xCal:prodid>-//Trumba Corporation//Trumba Calendar Services 0.11.8219//EN</xCal:prodid>
+		<xCal:version>2.0</xCal:version>
+		<xCal:method>PUBLISH</xCal:method>
+		<xCal:calscale>GREGORIAN</xCal:calscale>
+		<xCal:calname>Hillel at Emory</xCal:calname>
+		<xCal:timezone>America/New_York</xCal:timezone>
+		<item>
+			<title>Private Event: Karp Reception</title>
+			<description>Saturday, October 22, 2011, 7&amp;nbsp;&amp;ndash;&amp;nbsp;10:30pm &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96113961</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=wea7kn2exzsxdubkbrztbav7gj</x-trumba:ealink>
+			<category>2011/10/22 (Sat)</category>
+			<pubDate>22 Oct 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96113961</guid>
+			<xCal:summary>Private Event: Karp Reception</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2011-10-22T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-22T19:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-23T02:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-22T22:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/96113961</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Private Event</title>
+			<description>MHC: Arogeti Chapel &lt;br/&gt;Sunday, October 23, 2011, 10am&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Anker Bris &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96852226</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g5d6jderhgftum62x6wtb0yrc9</x-trumba:ealink>
+			<category>2011/10/23 (Sun)</category>
+			<pubDate>23 Oct 2011 14:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96852226</guid>
+			<xCal:summary>Private Event</xCal:summary>
+			<xCal:location>MHC: Arogeti Chapel</xCal:location>
+			<xCal:dtstart>2011-10-23T14:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-23T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-23T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-23T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Anker Bris</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96852226</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Intown Jewish Education Conversation</title>
+			<description>Marcus Hillel Center at Emory: Arogeti Chapel &lt;br/&gt;Sunday, October 23, 2011, 7&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;Do you have a young family and live in Intown Atlanta? What do YOU want for your child's Jewish education?&lt;br /&gt;&lt;br /&gt;Whether yours are infants or have graduated high school, we want to hear your thoughts!&lt;br /&gt;&lt;br /&gt;Light snacks and wine.&lt;br /&gt;Please invite your friends and RSVP to &lt;a href="mailto:ana@jewishkidsgroups.com" target="_blank"&gt;ana@jewishkidsgroups.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Hosted by Ana Fuchs and Linda Brenner. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96719769</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gy6g9yb9wykdzf640fvk1pkadv</x-trumba:ealink>
+			<category>2011/10/23 (Sun)</category>
+			<pubDate>23 Oct 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96719769</guid>
+			<xCal:summary>Intown Jewish Education Conversation</xCal:summary>
+			<xCal:location>Marcus Hillel Center at Emory: Arogeti Chapel</xCal:location>
+			<xCal:dtstart>2011-10-23T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-23T19:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-24T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-23T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Do you have a young family and live in Intown Atlanta? What do YOU want for your child's Jewish education?
+
+Whether yours are infants or have graduated high school, we want to hear your thoughts!
+
+Light snacks and wine.
+Please invite your friends and RSVP to ana@jewishkidsgroups.com
+
+Hosted by Ana Fuchs and Linda Brenner.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96719769</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan MCAT Class</title>
+			<description>MHC Segal Social Hall &lt;br/&gt;Monday, October 24, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;MCAT Class: MCEM12301. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95977358</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cvh0avz8a14yt51u6r6t24fz5x</x-trumba:ealink>
+			<category>2011/10/24 (Mon)</category>
+			<pubDate>24 Oct 2011 22:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95977358</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95977346</x-trumba:masterid>
+			<xCal:summary>Kaplan MCAT Class</xCal:summary>
+			<xCal:location>MHC Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-10-24T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-24T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-25T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-24T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>MCAT Class: MCEM12301. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95977358</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan GRE Class</title>
+			<description>MHC Cohen Jewish Resource Center &lt;br/&gt;Monday, October 24, 2011, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;GRE class: EREM11654. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96408680</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sc7j8t6pxpunve4xyr95n1z8xk</x-trumba:ealink>
+			<category>2011/10/24 (Mon)</category>
+			<pubDate>24 Oct 2011 22:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96408680</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96408671</x-trumba:masterid>
+			<xCal:summary>Kaplan GRE Class</xCal:summary>
+			<xCal:location>MHC Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-10-24T22:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-24T18:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-25T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-24T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>GRE class: EREM11654. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96408680</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Maimonides</title>
+			<description>Arogeti Chapel - Marcus Hillel Center &lt;br/&gt;Monday, October 24, 2011, 7:30&amp;nbsp;&amp;ndash;&amp;nbsp;10pm &lt;br/&gt;&lt;br/&gt;Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at &lt;a href="mailto:fleshel@gmail.com" target="_blank"&gt;fleshel@gmail.com&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96281076</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4ujwefc5pasxzvue7wp572de8d</x-trumba:ealink>
+			<category>2011/10/24 (Mon)</category>
+			<pubDate>24 Oct 2011 23:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96281076</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96281070</x-trumba:masterid>
+			<xCal:summary>Maimonides</xCal:summary>
+			<xCal:location>Arogeti Chapel - Marcus Hillel Center</xCal:location>
+			<xCal:dtstart>2011-10-24T23:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-24T19:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-25T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-24T22:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at fleshel@gmail.com</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96281076</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, October 25, 2011, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392845</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=wpc6vaty925v1ak5w1a4j6m8an</x-trumba:ealink>
+			<category>2011/10/25 (Tue)</category>
+			<pubDate>25 Oct 2011 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392845</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392843</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-10-25T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-25T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-25T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-25T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392845</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>FYSH Bowl</title>
+			<description>Suburban Lanes&lt;br /&gt;2619 North Decatur Road&lt;br /&gt;Decatur, GA 30033-6103&lt;br /&gt;(404) 373-2514 &lt;br/&gt;Tuesday, October 25, 2011, 9&amp;nbsp;&amp;ndash;&amp;nbsp;11pm &lt;br/&gt;&lt;br/&gt;Come Bowling with Hillel and your big or little FYSH @ Suburban Lanes! It's going to be a blast. We'll have Pizza and Drinks at the alley!!!&lt;br /&gt;&lt;br /&gt;Click here to register: &lt;a href="https://secure.acceptiva.com/?cst=479f12" target="_blank" title="https://secure.acceptiva.com/?cst=479f12"&gt;secure.acceptiva.com&amp;#8230;&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96737940</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cm5guf2rbvbeshbghb2epx9mmv</x-trumba:ealink>
+			<category>2011/10/25 (Tue)</category>
+			<pubDate>26 Oct 2011 01:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96737940</guid>
+			<xCal:summary>FYSH Bowl</xCal:summary>
+			<xCal:location>Suburban Lanes
+2619 North Decatur Road
+Decatur, GA 30033-6103
+(404) 373-2514</xCal:location>
+			<xCal:dtstart>2011-10-26T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-25T21:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-26T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-25T23:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Come Bowling with Hillel and your big or little FYSH @ Suburban Lanes! It's going to be a blast. We'll have Pizza and Drinks at the alley!!!
+
+Click here to register: https://secure.acceptiva.com/?cst=479f12</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96737940</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn with Rabbi Adam Starr</title>
+			<description>MHC Cohen Jewish Resource Center &lt;br/&gt;Wednesday, October 26, 2011, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.&lt;br /&gt;&lt;br /&gt;Contact : &lt;a href="mailto:admin@yith.org" target="_blank"&gt;admin@yith.org&lt;/a&gt; or 404-315-1417 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96423460</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mwdum9bpuxyg62bf9kp0cfngsy</x-trumba:ealink>
+			<category>2011/10/26 (Wed)</category>
+			<pubDate>26 Oct 2011 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96423460</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96423456</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn with Rabbi Adam Starr</xCal:summary>
+			<xCal:location>MHC Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-10-26T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-26T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-26T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-26T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.
+
+Contact : admin@yith.org or 404-315-1417</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96423460</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Chevruta</title>
+			<description>MHC- Arogeti Chapel &lt;br/&gt;Wednesday, October 26, 2011, 5:30&amp;nbsp;&amp;ndash;&amp;nbsp;6:30pm &lt;br/&gt;&lt;br/&gt;Stop by for dinner and Jewish learning with Dr. Blumenthal. LL Erica Morris for more info. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96650481</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4rjvcr14a1kxxgnyhwfjxvs35g</x-trumba:ealink>
+			<category>2011/10/26 (Wed)</category>
+			<pubDate>26 Oct 2011 21:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96650481</guid>
+			<xCal:summary>Chevruta</xCal:summary>
+			<xCal:location>MHC- Arogeti Chapel</xCal:location>
+			<xCal:dtstart>2011-10-26T21:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-26T17:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-26T22:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-26T18:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Stop by for dinner and Jewish learning with Dr. Blumenthal. LL Erica Morris for more info.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96650481</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan MCAT Class</title>
+			<description>MHC Segal Social Hall &lt;br/&gt;Wednesday, October 26, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;MCAT Class: MCEM12301. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95977359</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=ggwsdgkhstjcvajjvardnnyefu</x-trumba:ealink>
+			<category>2011/10/26 (Wed)</category>
+			<pubDate>26 Oct 2011 22:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95977359</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95977346</x-trumba:masterid>
+			<xCal:summary>Kaplan MCAT Class</xCal:summary>
+			<xCal:location>MHC Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-10-26T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-26T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-27T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-26T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>MCAT Class: MCEM12301. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95977359</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan GRE Class</title>
+			<description>MHC Cohen Jewish Resource Center &lt;br/&gt;Wednesday, October 26, 2011, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;GRE class: EREM11654. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96408681</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mxurgzufw8sw7dh2vfz91skug9</x-trumba:ealink>
+			<category>2011/10/26 (Wed)</category>
+			<pubDate>26 Oct 2011 22:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96408681</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96408671</x-trumba:masterid>
+			<xCal:summary>Kaplan GRE Class</xCal:summary>
+			<xCal:location>MHC Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-10-26T22:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-26T18:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-27T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-26T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>GRE class: EREM11654. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96408681</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>JHealth Roundtable I</title>
+			<description>MHC: Arogeti Chapel &lt;br/&gt;Thursday, October 27, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;8pm &lt;br/&gt;&lt;br/&gt;By invitation only &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95996480</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=8au3y4brcgc23b8gtjf3m7gy86</x-trumba:ealink>
+			<category>2011/10/27 (Thu)</category>
+			<pubDate>27 Oct 2011 22:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95996480</guid>
+			<xCal:summary>JHealth Roundtable I</xCal:summary>
+			<xCal:location>MHC: Arogeti Chapel</xCal:location>
+			<xCal:dtstart>2011-10-27T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-27T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-28T00:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-27T20:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>By invitation only</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95996480</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|JHealth</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>ICC Regional Field Training</title>
+			<description>Sunday, October 30, 12pm&amp;nbsp;&amp;ndash; Monday, October 31, 2011, 4pm &lt;br/&gt;&lt;br/&gt;The Israel on Campus Coalition field training provides professionals with the skills, education and confidence to help students deal with Israel&amp;#8217;s detractors on campus and give them tools to make effective positive campus change for Israel. Professionals will end this training with a playbook, evaluation and planning tools, a pro-active campus action plan, and more confidence related to dealing with Israel on campus. &lt;br /&gt; &lt;br /&gt;Please register here: &lt;a href="http://israelcc.org/home/initiatives/regional-training-for-professionals" target="_blank" title="http://israelcc.org/home/initiatives/regional-training-for-professionals"&gt;israelcc.org&amp;#8230;&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;More info&lt;/b&gt;:&amp;nbsp;&lt;a href="http://israelcc.org/home/initiatives/regional-training-for-professionals" target="_blank" title="http://israelcc.org/home/initiatives/regional-training-for-professionals"&gt;israelcc.org&amp;#8230;&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95407080</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gg9fc1dt2hechnx94r4trw1j7p</x-trumba:ealink>
+			<category>2011/10/30 (Sun)</category>
+			<pubDate>30 Oct 2011 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95407080</guid>
+			<xCal:summary>ICC Regional Field Training</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2011-10-30T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-30T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-10-31T20:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-31T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>The Israel on Campus Coalition field training provides professionals with the skills, education and confidence to help students deal with Israel’s detractors on campus and give them tools to make effective positive campus change for Israel. Professionals will end this training with a playbook, evaluation and planning tools, a pro-active campus action plan, and more confidence related to dealing with Israel on campus. 
+ 
+Please register here: http://israelcc.org/home/initiatives/regional-training-for-professionals</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95407080</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+			<x-trumba:weblink>http://israelcc.org/home/initiatives/regional-training-for-professionals</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Kaplan GRE Class</title>
+			<description>MHC Cohen Jewish Resource Center &lt;br/&gt;Monday, October 31, 2011, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;GRE class: EREM11654. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96408682</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=s56u5p6b6ew5a8ybzg7x9016j5</x-trumba:ealink>
+			<category>2011/10/31 (Mon)</category>
+			<pubDate>31 Oct 2011 22:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96408682</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96408671</x-trumba:masterid>
+			<xCal:summary>Kaplan GRE Class</xCal:summary>
+			<xCal:location>MHC Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-10-31T22:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-31T18:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-01T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-31T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>GRE class: EREM11654. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96408682</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Maimonides</title>
+			<description>Arogeti Chapel - Marcus Hillel Center &lt;br/&gt;Monday, October 31, 2011, 7:30&amp;nbsp;&amp;ndash;&amp;nbsp;10pm &lt;br/&gt;&lt;br/&gt;Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at &lt;a href="mailto:fleshel@gmail.com" target="_blank"&gt;fleshel@gmail.com&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96281077</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gxewzv72e2fm6g88xvcar4eb3p</x-trumba:ealink>
+			<category>2011/10/31 (Mon)</category>
+			<pubDate>31 Oct 2011 23:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96281077</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96281070</x-trumba:masterid>
+			<xCal:summary>Maimonides</xCal:summary>
+			<xCal:location>Arogeti Chapel - Marcus Hillel Center</xCal:location>
+			<xCal:dtstart>2011-10-31T23:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-10-31T19:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-01T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-10-31T22:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at fleshel@gmail.com</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96281077</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn with Rabbi Adam Starr</title>
+			<description>MHC Cohen Jewish Resource Center &lt;br/&gt;Wednesday, November 2, 2011, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.&lt;br /&gt;&lt;br /&gt;Contact : &lt;a href="mailto:admin@yith.org" target="_blank"&gt;admin@yith.org&lt;/a&gt; or 404-315-1417 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96423461</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=c2tap2b6fmhd8jpzx7wwxbx0bg</x-trumba:ealink>
+			<category>2011/11/02 (Wed)</category>
+			<pubDate>02 Nov 2011 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96423461</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96423456</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn with Rabbi Adam Starr</xCal:summary>
+			<xCal:location>MHC Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-02T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-11-02T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-02T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-11-02T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.
+
+Contact : admin@yith.org or 404-315-1417</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96423461</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan MCAT Class</title>
+			<description>MHC Segal Social Hall &lt;br/&gt;Wednesday, November 2, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;MCAT Class: MCEM12301. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95977361</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=07300nrkyk4k5mdd8yeky471wf</x-trumba:ealink>
+			<category>2011/11/02 (Wed)</category>
+			<pubDate>02 Nov 2011 22:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95977361</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95977346</x-trumba:masterid>
+			<xCal:summary>Kaplan MCAT Class</xCal:summary>
+			<xCal:location>MHC Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-11-02T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-11-02T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-03T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-11-02T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>MCAT Class: MCEM12301. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95977361</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Jhealth GBM</title>
+			<description>Marcus Hillel Center &lt;br/&gt;Thursday, November 3, 2011, 5:30&amp;nbsp;&amp;ndash;&amp;nbsp;6:30pm &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96362202</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4c32mexp088c9z98ztuuyewpy8</x-trumba:ealink>
+			<category>2011/11/03 (Thu)</category>
+			<pubDate>03 Nov 2011 21:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96362202</guid>
+			<xCal:summary>Jhealth GBM</xCal:summary>
+			<xCal:location>Marcus Hillel Center</xCal:location>
+			<xCal:dtstart>2011-11-03T21:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-11-03T17:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-03T22:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-11-03T18:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/96362202</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Performance: Creativity Conversation with Matt Haimovitz, cello</title>
+			<description>Marcus Hillel Center &lt;br/&gt;Thursday, November 3, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;7:30pm &lt;br/&gt;&lt;br/&gt;Renowned as a musical pioneer, cellist Matt Haimovitz has inspired classical music lovers and countless new listeners by bringing his artistry to concert halls and clubs, outdoor festivals and intimate coffee houses, any place where passionate music can be heard. Through his visionary approach he brings a fresh ear to familiar repertoire and champions new music. Haimovitz is re-defining what it means to be an artist for the 21st century. In this program Haimovitz will be playing two pieces by Jewish composers and discussing their themes with Music Department Chair Kevin Karnes and Religion professor David Blumenthal. &lt;br /&gt;&lt;br /&gt;Presented by the Emory Center for Creativity &amp;amp; the Arts; the David Goldwasser Series in Religion and the Arts; Coca-Cola Artist in Residence.&lt;br /&gt;&lt;br /&gt;Reception presented by Hillel at Emory University to follow. &lt;br/&gt;&lt;br/&gt;&lt;b&gt;More info&lt;/b&gt;:&amp;nbsp;&lt;a href="http://www.arts.emory.edu/" target="_blank"&gt;www.arts.emory.edu&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94565208</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g770x7rdpvvbsgp425grkmn5j5</x-trumba:ealink>
+			<category>2011/11/03 (Thu)</category>
+			<pubDate>03 Nov 2011 22:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94565208</guid>
+			<xCal:summary>Performance: Creativity Conversation with Matt Haimovitz, cello</xCal:summary>
+			<xCal:location>Marcus Hillel Center</xCal:location>
+			<xCal:dtstart>2011-11-03T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-11-03T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-03T23:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-11-03T19:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Renowned as a musical pioneer, cellist Matt Haimovitz has inspired classical music lovers and countless new listeners by bringing his artistry to concert halls and clubs, outdoor festivals and intimate coffee houses, any place where passionate music can be heard. Through his visionary approach he brings a fresh ear to familiar repertoire and champions new music. Haimovitz is re-defining what it means to be an artist for the 21st century. In this program Haimovitz will be playing two pieces by Jewish composers and discussing their themes with Music Department Chair Kevin Karnes and Religion professor David Blumenthal. 
+
+Presented by the Emory Center for Creativity &amp; the Arts; the David Goldwasser Series in Religion and the Arts; Coca-Cola Artist in Residence.
+
+Reception presented by Hillel at Emory University to follow.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94565208</xCal:uid>
+			<x-trumba:customfield name="Event Type" id="21" type="number">Featured Events</x-trumba:customfield>
+			<x-trumba:customfield name="Event image" id="40" type="uri" imageWidth="250" imageHeight="167">http://www.trumba.com/i/DgBbOKL%2AlgL61Vc6gyFl0q19.jpg</x-trumba:customfield>
+			<x-trumba:categorycalendar>Hillel at Emory|Arts &amp; Culture</x-trumba:categorycalendar>
+			<x-trumba:weblink>http://www.arts.emory.edu/</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Kaplan GRE Class</title>
+			<description>MHC: Cohen Jewish Resource Center &lt;br/&gt;Thursday, November 3, 2011, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;GRE class: EREM11701. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96733744</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sz1erpdt2hnhbzn68n74ab9dv8</x-trumba:ealink>
+			<category>2011/11/03 (Thu)</category>
+			<pubDate>03 Nov 2011 22:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96733744</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96733743</x-trumba:masterid>
+			<xCal:summary>Kaplan GRE Class</xCal:summary>
+			<xCal:location>MHC: Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-03T22:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2011-11-03T18:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-04T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2011-11-03T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>GRE class: EREM11701. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96733744</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Football &#38; Wings at Hillel!</title>
+			<description>MHC - Segal Social Hall, Cafe &lt;br/&gt;Sunday, November 6, 2011, 8&amp;nbsp;&amp;ndash;&amp;nbsp;11:30pm &lt;br/&gt;&lt;br/&gt;Come over to the Marcus Hillel Center to grab some Buffalo Wings from Goodfriend's Grill and enjoy some Sunday Night Football. &lt;br /&gt;&lt;br /&gt;This week's lineup is the Baltimore Ravens vs. the Pittsburgh Steelers.&lt;br /&gt;&lt;br /&gt;Should be a great game and awesome time! &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96606357</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=08f9yj1wvht94f3p2cezkcy26r</x-trumba:ealink>
+			<category>2011/11/06 (Sun)</category>
+			<pubDate>07 Nov 2011 01:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96606357</guid>
+			<xCal:summary>Football &amp; Wings at Hillel!</xCal:summary>
+			<xCal:location>MHC - Segal Social Hall, Cafe</xCal:location>
+			<xCal:dtstart>2011-11-07T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-06T20:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-07T04:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-06T23:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Come over to the Marcus Hillel Center to grab some Buffalo Wings from Goodfriend's Grill and enjoy some Sunday Night Football. 
+
+This week's lineup is the Baltimore Ravens vs. the Pittsburgh Steelers.
+
+Should be a great game and awesome time!</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96606357</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan MCAT Class</title>
+			<description>MHC Segal Social Hall &lt;br/&gt;Monday, November 7, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;MCAT Class: MCEM12301. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95977362</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=46w4gg1b2f3y86ppdr0wx0rt9g</x-trumba:ealink>
+			<category>2011/11/07 (Mon)</category>
+			<pubDate>07 Nov 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95977362</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95977346</x-trumba:masterid>
+			<xCal:summary>Kaplan MCAT Class</xCal:summary>
+			<xCal:location>MHC Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-11-07T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-07T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-08T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-07T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>MCAT Class: MCEM12301. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95977362</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Maimonides</title>
+			<description>Arogeti Chapel - Marcus Hillel Center &lt;br/&gt;Monday, November 7, 2011, 7:30&amp;nbsp;&amp;ndash;&amp;nbsp;10pm &lt;br/&gt;&lt;br/&gt;Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at &lt;a href="mailto:fleshel@gmail.com" target="_blank"&gt;fleshel@gmail.com&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96281078</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=0m0jmuz3ehztk0ymnytv6nedz7</x-trumba:ealink>
+			<category>2011/11/07 (Mon)</category>
+			<pubDate>08 Nov 2011 00:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96281078</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96281070</x-trumba:masterid>
+			<xCal:summary>Maimonides</xCal:summary>
+			<xCal:location>Arogeti Chapel - Marcus Hillel Center</xCal:location>
+			<xCal:dtstart>2011-11-08T00:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-07T19:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-08T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-07T22:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at fleshel@gmail.com</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96281078</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Gil Hoffman: "Peace, Politics, and Plutonium: an insider's look at the quest for security, democracy &#38; peace in the Middle East"</title>
+			<description>MHC: Segal Social Hall &lt;br/&gt;Monday, November 7, 2011, 8:30&amp;nbsp;&amp;ndash;&amp;nbsp;9:30pm &lt;br/&gt;&lt;br/&gt;Gil Hoffman is the chief political correspondent and analyst for The Jerusalem Post. Well-connected to Israeli and Palestinian leaders, Hoffman has interviewed every major figure across the Israeli political spectrum, has been interviewed by top media on six continents and is a regular analyst on CNN, Al-Jazeera and other news outlets.&lt;br /&gt;&lt;br /&gt;Called &amp;quot;The most optimistic man in Israel&amp;quot; by Israel Television, Hoffman's writing and TV appearances provide a behind the scenes look at the intrigue and humor in the Israeli political arena. &lt;br /&gt;&lt;br /&gt;Hoffman, who was raised in Chicago, graduated Magna Cum Laude from Northwestern University's School of Journalism and wrote for the Miami Herald and Arizona Republic before moving to Israel. A reserve soldier in the IDF's Spokesman's Unit, he has lectured in seven countries and 36 US states. He lives in Jerusalem with his wife, and two children.&lt;br /&gt;&lt;br /&gt;An open session of Maimonides. Co-Sponsored by Meor and Hillel at Emory. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95421624</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g46ezb4k762fee6akspzc43rhg</x-trumba:ealink>
+			<category>2011/11/07 (Mon)</category>
+			<pubDate>08 Nov 2011 01:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95421624</guid>
+			<xCal:summary>Gil Hoffman: "Peace, Politics, and Plutonium: an insider's look at the quest for security, democracy &amp;  peace in the Middle East"</xCal:summary>
+			<xCal:location>MHC: Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-11-08T01:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-07T20:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-08T02:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-07T21:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Gil Hoffman is the chief political correspondent and analyst for The Jerusalem Post. Well-connected to Israeli and Palestinian leaders, Hoffman has interviewed every major figure across the Israeli political spectrum, has been interviewed by top media on six continents and is a regular analyst on CNN, Al-Jazeera and other news outlets.
+
+Called "The most optimistic man in Israel" by Israel Television, Hoffman's writing and TV appearances provide a behind the scenes look at the intrigue and humor in the Israeli political arena. 
+
+Hoffman, who was raised in Chicago, graduated Magna Cum Laude from Northwestern University's School of Journalism and wrote for the Miami Herald and Arizona Republic before moving to Israel. A reserve soldier in the IDF's Spokesman's Unit, he has lectured in seven countries and 36 US states. He lives in Jerusalem with his wife, and two children.
+
+An open session of Maimonides. Co-Sponsored by Meor and Hillel at Emory.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95421624</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, November 8, 2011, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392791</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mmjyg1v11zfs58tjhnbcw7yh70</x-trumba:ealink>
+			<category>2011/11/08 (Tue)</category>
+			<pubDate>08 Nov 2011 17:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392791</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392788</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-08T17:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-08T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-08T18:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-08T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392791</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan GRE Class</title>
+			<description>MHC: Cohen Jewish Resource Center &lt;br/&gt;Tuesday, November 8, 2011, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;GRE class: EREM11701. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96733745</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=88mfnvc7pkh7ukanxe43dnueje</x-trumba:ealink>
+			<category>2011/11/08 (Tue)</category>
+			<pubDate>08 Nov 2011 23:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96733745</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96733743</x-trumba:masterid>
+			<xCal:summary>Kaplan GRE Class</xCal:summary>
+			<xCal:location>MHC: Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-08T23:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-08T18:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-09T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-08T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>GRE class: EREM11701. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96733745</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn with Rabbi Adam Starr</title>
+			<description>MHC Cohen Jewish Resource Center &lt;br/&gt;Wednesday, November 9, 2011, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.&lt;br /&gt;&lt;br /&gt;Contact : &lt;a href="mailto:admin@yith.org" target="_blank"&gt;admin@yith.org&lt;/a&gt; or 404-315-1417 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96423462</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=0tpmpe1np4eut7765d5u8g4byn</x-trumba:ealink>
+			<category>2011/11/09 (Wed)</category>
+			<pubDate>09 Nov 2011 17:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96423462</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96423456</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn with Rabbi Adam Starr</xCal:summary>
+			<xCal:location>MHC Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-09T17:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-09T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-09T18:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-09T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.
+
+Contact : admin@yith.org or 404-315-1417</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96423462</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan MCAT Class</title>
+			<description>MHC Segal Social Hall &lt;br/&gt;Wednesday, November 9, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;MCAT Class: MCEM12301. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95977363</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mek51f6517a08jhwt15r9u44n9</x-trumba:ealink>
+			<category>2011/11/09 (Wed)</category>
+			<pubDate>09 Nov 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95977363</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95977346</x-trumba:masterid>
+			<xCal:summary>Kaplan MCAT Class</xCal:summary>
+			<xCal:location>MHC Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-11-09T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-09T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-10T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-09T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>MCAT Class: MCEM12301. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95977363</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>JHealth Roundtable II</title>
+			<description>MHC: Arogeti Chapel &lt;br/&gt;Thursday, November 10, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;8pm &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95996533</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=suj1p58d788n111un7r646xu2m</x-trumba:ealink>
+			<category>2011/11/10 (Thu)</category>
+			<pubDate>10 Nov 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95996533</guid>
+			<xCal:summary>JHealth Roundtable II</xCal:summary>
+			<xCal:location>MHC: Arogeti Chapel</xCal:location>
+			<xCal:dtstart>2011-11-10T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-10T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-11T01:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-10T20:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/95996533</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|JHealth</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan GRE Class</title>
+			<description>MHC: Cohen Jewish Resource Center &lt;br/&gt;Thursday, November 10, 2011, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;GRE class: EREM11701. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96733746</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=8yx88z0keyhskk1mgs659vez65</x-trumba:ealink>
+			<category>2011/11/10 (Thu)</category>
+			<pubDate>10 Nov 2011 23:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96733746</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96733743</x-trumba:masterid>
+			<xCal:summary>Kaplan GRE Class</xCal:summary>
+			<xCal:location>MHC: Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-10T23:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-10T18:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-11T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-10T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>GRE class: EREM11701. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96733746</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Shabbat Services and Dinner</title>
+			<description>Marcus Hillel Center &lt;br/&gt;Friday, November 11, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;8:30pm &lt;br/&gt;&lt;br/&gt;Join us for student-led Reform, Conservative, and Carlebach (Orthodox) services, followed by a FREE kosher Shabbat dinner.&lt;br /&gt;&lt;br /&gt;(Please note the time change due to the end of Daylight Saving Time.) &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94456044</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=svbgcjzp1zz7wdud0z4t3adtfv</x-trumba:ealink>
+			<category>2011/11/11 (Fri)</category>
+			<pubDate>11 Nov 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94456044</guid>
+			<xCal:summary>Shabbat Services and Dinner</xCal:summary>
+			<xCal:location>Marcus Hillel Center</xCal:location>
+			<xCal:dtstart>2011-11-11T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-11T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-12T01:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-11T20:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Join us for student-led Reform, Conservative, and Carlebach (Orthodox) services, followed by a FREE kosher Shabbat dinner.
+
+(Please note the time change due to the end of Daylight Saving Time.)</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94456044</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>MJCCA Book Festival Event feat. Rabbi Andrea Myers</title>
+			<description>Sunday, November 13, 2011, 10am&amp;nbsp;&amp;ndash;&amp;nbsp;12pm &lt;br/&gt;&lt;br/&gt;Rabbi Andrea Myers, The Choosing&lt;br /&gt;A Rabbi's Journey from Silent Nights to High Holy Days&lt;br /&gt;&lt;br /&gt;A young Lutheran girl grows up on Long Island, New York. She aspires to be a doctor, and is on the fast track to marriage and the conventional happily-ever-after. But, as the Yiddish saying goes, &amp;quot;Man plans, and God laughs.&amp;quot; Meet Andrea Myers, whose coming-of-age at Brandeis, conversion to Judaism, and awakening sexual identity make for a rich and well-timed life in the rabbinate. In The Choosing, Myers fuses heartwarming anecdotes with rabbinic insights and generous dollops of humor to describe what it means to survive and flourish on your own terms. Portioned around the cycle of the Jewish year, with stories connected to each of the holidays, Myers draws on her unique path to the rabbinate-- leaving behind her Christian upbringing, coming out as a lesbian, discovering Judaism in college, moving to Israel, converting, and returning to New York to become a rabbi, partner, and parent. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;More information is available here: &lt;br /&gt;&lt;a href="http://www.atlantajcc.org/pldb-live/special-events/12354/?back=pldb_active" target="_blank" title="http://www.atlantajcc.org/pldb-live/special-events/12354/?back=pldb_active"&gt;www.atlantajcc.org&amp;#8230;&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;&lt;b&gt;More info&lt;/b&gt;:&amp;nbsp;&lt;a href="http://www.atlantajcc.org/pldb-live/special-events/12354/?back=pldb_active" target="_blank" title="http://www.atlantajcc.org/pldb-live/special-events/12354/?back=pldb_active"&gt;www.atlantajcc.org&amp;#8230;&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95913897</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4rem5g0t8p27b35rr192ue4her</x-trumba:ealink>
+			<category>2011/11/13 (Sun)</category>
+			<pubDate>13 Nov 2011 15:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95913897</guid>
+			<xCal:summary>MJCCA Book Festival Event feat. Rabbi Andrea Myers</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2011-11-13T15:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-13T10:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-13T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-13T12:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Rabbi Andrea Myers, The Choosing
+A Rabbi's Journey from Silent Nights to High Holy Days
+
+A young Lutheran girl grows up on Long Island, New York. She aspires to be a doctor, and is on the fast track to marriage and the conventional happily-ever-after. But, as the Yiddish saying goes, "Man plans, and God laughs." Meet Andrea Myers, whose coming-of-age at Brandeis, conversion to Judaism, and awakening sexual identity make for a rich and well-timed life in the rabbinate. In The Choosing, Myers fuses heartwarming anecdotes with rabbinic insights and generous dollops of humor to describe what it means to survive and flourish on your own terms. Portioned around the cycle of the Jewish year, with stories connected to each of the holidays, Myers draws on her unique path to the rabbinate-- leaving behind her Christian upbringing, coming out as a lesbian, discovering Judaism in college, moving to Israel, converting, and returning to New York to become a rabbi, partner, and parent. 
+
+
+More information is available here: 
+http://www.atlantajcc.org/pldb-live/special-events/12354/?back=pldb_active</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95913897</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Arts &amp; Culture</x-trumba:categorycalendar>
+			<x-trumba:weblink>http://www.atlantajcc.org/pldb-live/special-events/12354/?back=pldb_active</x-trumba:weblink>
+		</item>
+		<item>
+			<title>Kaplan MCAT Class</title>
+			<description>MHC Segal Social Hall &lt;br/&gt;Monday, November 14, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;MCAT Class: MCEM12301. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95977364</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=ww56ng0ceb30stxscg4ahpu8v3</x-trumba:ealink>
+			<category>2011/11/14 (Mon)</category>
+			<pubDate>14 Nov 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95977364</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95977346</x-trumba:masterid>
+			<xCal:summary>Kaplan MCAT Class</xCal:summary>
+			<xCal:location>MHC Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-11-14T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-14T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-15T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-14T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>MCAT Class: MCEM12301. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95977364</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Maimonides</title>
+			<description>Arogeti Chapel - Marcus Hillel Center &lt;br/&gt;Monday, November 14, 2011, 7:30&amp;nbsp;&amp;ndash;&amp;nbsp;10pm &lt;br/&gt;&lt;br/&gt;Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at &lt;a href="mailto:fleshel@gmail.com" target="_blank"&gt;fleshel@gmail.com&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96281079</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=w1ckba99sd5a0w25abc58dxj80</x-trumba:ealink>
+			<category>2011/11/14 (Mon)</category>
+			<pubDate>15 Nov 2011 00:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96281079</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96281070</x-trumba:masterid>
+			<xCal:summary>Maimonides</xCal:summary>
+			<xCal:location>Arogeti Chapel - Marcus Hillel Center</xCal:location>
+			<xCal:dtstart>2011-11-15T00:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-14T19:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-15T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-14T22:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at fleshel@gmail.com</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96281079</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan GRE Class</title>
+			<description>MHC: Cohen Jewish Resource Center &lt;br/&gt;Tuesday, November 15, 2011, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;GRE class: EREM11701. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96733747</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=s0848zadtszp4s5bmf7gtg51cg</x-trumba:ealink>
+			<category>2011/11/15 (Tue)</category>
+			<pubDate>15 Nov 2011 23:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96733747</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96733743</x-trumba:masterid>
+			<xCal:summary>Kaplan GRE Class</xCal:summary>
+			<xCal:location>MHC: Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-15T23:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-15T18:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-16T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-15T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>GRE class: EREM11701. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96733747</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn with Rabbi Adam Starr</title>
+			<description>MHC Cohen Jewish Resource Center &lt;br/&gt;Wednesday, November 16, 2011, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.&lt;br /&gt;&lt;br /&gt;Contact : &lt;a href="mailto:admin@yith.org" target="_blank"&gt;admin@yith.org&lt;/a&gt; or 404-315-1417 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96423463</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mb37fjsm66zku3u4zrcseu31s9</x-trumba:ealink>
+			<category>2011/11/16 (Wed)</category>
+			<pubDate>16 Nov 2011 17:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96423463</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96423456</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn with Rabbi Adam Starr</xCal:summary>
+			<xCal:location>MHC Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-16T17:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-16T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-16T18:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-16T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.
+
+Contact : admin@yith.org or 404-315-1417</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96423463</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan MCAT Class</title>
+			<description>MHC Segal Social Hall &lt;br/&gt;Wednesday, November 16, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;MCAT Class: MCEM12301. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95977365</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=8had0rasd9xhp0jv74mdssz873</x-trumba:ealink>
+			<category>2011/11/16 (Wed)</category>
+			<pubDate>16 Nov 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95977365</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95977346</x-trumba:masterid>
+			<xCal:summary>Kaplan MCAT Class</xCal:summary>
+			<xCal:location>MHC Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-11-16T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-16T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-17T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-16T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>MCAT Class: MCEM12301. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95977365</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Jhealth GBM</title>
+			<description>Marcus Hilel center &lt;br/&gt;Thursday, November 17, 2011, 5:45&amp;nbsp;&amp;ndash;&amp;nbsp;6:45pm &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96362203</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gu8s7nd919n662x0jh7wucujb1</x-trumba:ealink>
+			<category>2011/11/17 (Thu)</category>
+			<pubDate>17 Nov 2011 22:45:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96362203</guid>
+			<xCal:summary>Jhealth GBM</xCal:summary>
+			<xCal:location>Marcus Hilel center</xCal:location>
+			<xCal:dtstart>2011-11-17T22:45:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-17T17:45:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-17T23:45:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-17T18:45:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/96362203</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan GRE Class</title>
+			<description>MHC: Cohen Jewish Resource Center &lt;br/&gt;Thursday, November 17, 2011, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;GRE class: EREM11701. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96733748</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=wfzpysf6bdve4mkkjd4t8ru7fc</x-trumba:ealink>
+			<category>2011/11/17 (Thu)</category>
+			<pubDate>17 Nov 2011 23:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96733748</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96733743</x-trumba:masterid>
+			<xCal:summary>Kaplan GRE Class</xCal:summary>
+			<xCal:location>MHC: Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-17T23:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-17T18:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-18T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-17T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>GRE class: EREM11701. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96733748</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Maimonides</title>
+			<description>Arogeti Chapel - Marcus Hillel Center &lt;br/&gt;Monday, November 21, 2011, 7:30&amp;nbsp;&amp;ndash;&amp;nbsp;10pm &lt;br/&gt;&lt;br/&gt;Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at &lt;a href="mailto:fleshel@gmail.com" target="_blank"&gt;fleshel@gmail.com&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96281080</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=0hax7an6dhku9255rtks3as73v</x-trumba:ealink>
+			<category>2011/11/21 (Mon)</category>
+			<pubDate>22 Nov 2011 00:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96281080</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96281070</x-trumba:masterid>
+			<xCal:summary>Maimonides</xCal:summary>
+			<xCal:location>Arogeti Chapel - Marcus Hillel Center</xCal:location>
+			<xCal:dtstart>2011-11-22T00:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-21T19:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-22T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-21T22:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at fleshel@gmail.com</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96281080</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, November 22, 2011, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392846</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cezyf4g0nvfnkv1t6dc14ca59z</x-trumba:ealink>
+			<category>2011/11/22 (Tue)</category>
+			<pubDate>22 Nov 2011 17:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392846</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392843</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-22T17:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-22T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-22T18:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-22T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392846</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Funda Seminars International</title>
+			<description>Marcus Hillel Center: Arogeti Chapel &lt;br/&gt;Tuesday, November 22, 2011, 4&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96732252</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cnjbn1w5xc0jtwsnr72kpca5ga</x-trumba:ealink>
+			<category>2011/11/22 (Tue)</category>
+			<pubDate>22 Nov 2011 21:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96732252</guid>
+			<xCal:summary>Funda Seminars International</xCal:summary>
+			<xCal:location>Marcus Hillel Center: Arogeti Chapel</xCal:location>
+			<xCal:dtstart>2011-11-22T21:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-22T16:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-23T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-22T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/96732252</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan GRE Class</title>
+			<description>MHC: Cohen Jewish Resource Center &lt;br/&gt;Tuesday, November 22, 2011, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;GRE class: EREM11701. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96733749</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g229ht514uyhdybbbvattn7sm7</x-trumba:ealink>
+			<category>2011/11/22 (Tue)</category>
+			<pubDate>22 Nov 2011 23:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96733749</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96733743</x-trumba:masterid>
+			<xCal:summary>Kaplan GRE Class</xCal:summary>
+			<xCal:location>MHC: Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-22T23:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-22T18:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-23T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-22T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>GRE class: EREM11701. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96733749</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn with Rabbi Adam Starr</title>
+			<description>MHC Cohen Jewish Resource Center &lt;br/&gt;Wednesday, November 23, 2011, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.&lt;br /&gt;&lt;br /&gt;Contact : &lt;a href="mailto:admin@yith.org" target="_blank"&gt;admin@yith.org&lt;/a&gt; or 404-315-1417 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96423464</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mn2gkdvadzezgf2tfk0s1k4ugy</x-trumba:ealink>
+			<category>2011/11/23 (Wed)</category>
+			<pubDate>23 Nov 2011 17:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96423464</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96423456</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn with Rabbi Adam Starr</xCal:summary>
+			<xCal:location>MHC Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-23T17:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-23T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-23T18:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-23T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.
+
+Contact : admin@yith.org or 404-315-1417</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96423464</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Thanksgiving Break (no classes)</title>
+			<description>Thursday, November 24&amp;nbsp;&amp;ndash; Friday, November 25, 2011 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d93915568</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mpybrwcd44kzkhw2au20bt7mc0</x-trumba:ealink>
+			<category>2011/11/24 (Thu)</category>
+			<pubDate>24 Nov 2011 05:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/93915568</guid>
+			<xCal:summary>Thanksgiving Break (no classes)</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2011-11-24T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-24T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-26T05:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-26T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/93915568</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan MCAT Class</title>
+			<description>MHC Segal Social Hall &lt;br/&gt;Monday, November 28, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;MCAT Class: MCEM12301. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95977368</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gvgwn1y6xspz7c0jhve2w9z4kk</x-trumba:ealink>
+			<category>2011/11/28 (Mon)</category>
+			<pubDate>28 Nov 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95977368</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95977346</x-trumba:masterid>
+			<xCal:summary>Kaplan MCAT Class</xCal:summary>
+			<xCal:location>MHC Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-11-28T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-28T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-29T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-28T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>MCAT Class: MCEM12301. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95977368</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Maimonides</title>
+			<description>Arogeti Chapel - Marcus Hillel Center &lt;br/&gt;Monday, November 28, 2011, 7:30&amp;nbsp;&amp;ndash;&amp;nbsp;10pm &lt;br/&gt;&lt;br/&gt;Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at &lt;a href="mailto:fleshel@gmail.com" target="_blank"&gt;fleshel@gmail.com&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96281081</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=40x0fbzfvfgcut3uxf1g9c2497</x-trumba:ealink>
+			<category>2011/11/28 (Mon)</category>
+			<pubDate>29 Nov 2011 00:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96281081</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96281070</x-trumba:masterid>
+			<xCal:summary>Maimonides</xCal:summary>
+			<xCal:location>Arogeti Chapel - Marcus Hillel Center</xCal:location>
+			<xCal:dtstart>2011-11-29T00:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-28T19:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-29T03:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-28T22:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Weekly meeting of Maimonides 1. To learn more about this program and how to sign up for future series contact Rabbi Yaakov at fleshel@gmail.com</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96281081</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan GRE Class</title>
+			<description>MHC: Cohen Jewish Resource Center &lt;br/&gt;Tuesday, November 29, 2011, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;GRE class: EREM11701. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96733751</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mbcgg8dubkmcu2rb3dxhp9bw8w</x-trumba:ealink>
+			<category>2011/11/29 (Tue)</category>
+			<pubDate>29 Nov 2011 23:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96733751</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96733743</x-trumba:masterid>
+			<xCal:summary>Kaplan GRE Class</xCal:summary>
+			<xCal:location>MHC: Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-29T23:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-29T18:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-30T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-29T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>GRE class: EREM11701. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96733751</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Mocktails with the Jewish Greek Women</title>
+			<description>MHC - Segal Social Hall &lt;br/&gt;Tuesday, November 29, 2011, 7&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;Come enjoy making mocktails (non-alcohol) cocktails with other Jewish Greeks! &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96606281</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mwf2g96pyf3cjne2a8ykwt4bwe</x-trumba:ealink>
+			<category>2011/11/29 (Tue)</category>
+			<pubDate>30 Nov 2011 00:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96606281</guid>
+			<xCal:summary>Mocktails with the Jewish Greek Women</xCal:summary>
+			<xCal:location>MHC - Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-11-30T00:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-29T19:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-30T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-29T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Come enjoy making mocktails (non-alcohol) cocktails with other Jewish Greeks!</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96606281</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Private Meeting</title>
+			<description>Wednesday, November 30, 2011, 8am&amp;nbsp;&amp;ndash;&amp;nbsp;4pm &lt;br/&gt;&lt;br/&gt;Tentative &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96281787</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=saczt2zjzshh5g0ecn60zbek4w</x-trumba:ealink>
+			<category>2011/11/30 (Wed)</category>
+			<pubDate>30 Nov 2011 13:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96281787</guid>
+			<xCal:summary>Private Meeting</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2011-11-30T13:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-30T08:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-30T21:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-30T16:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Tentative</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96281787</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn with Rabbi Adam Starr</title>
+			<description>MHC Cohen Jewish Resource Center &lt;br/&gt;Wednesday, November 30, 2011, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.&lt;br /&gt;&lt;br /&gt;Contact : &lt;a href="mailto:admin@yith.org" target="_blank"&gt;admin@yith.org&lt;/a&gt; or 404-315-1417 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96423465</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=ma593ncn8bnmjun7fx72gw6rnp</x-trumba:ealink>
+			<category>2011/11/30 (Wed)</category>
+			<pubDate>30 Nov 2011 17:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96423465</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96423456</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn with Rabbi Adam Starr</xCal:summary>
+			<xCal:location>MHC Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-11-30T17:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-11-30T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-11-30T18:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-11-30T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.
+
+Contact : admin@yith.org or 404-315-1417</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96423465</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan GRE Class</title>
+			<description>MHC: Cohen Jewish Resource Center &lt;br/&gt;Thursday, December 1, 2011, 6:30&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;GRE class: EREM11701. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96733752</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=chp62un6m6agk35hueujrwd5ja</x-trumba:ealink>
+			<category>2011/12/01 (Thu)</category>
+			<pubDate>01 Dec 2011 23:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96733752</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96733743</x-trumba:masterid>
+			<xCal:summary>Kaplan GRE Class</xCal:summary>
+			<xCal:location>MHC: Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-12-01T23:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-12-01T18:30:00</x-trumba:localstart>
+			<xCal:dtend>2011-12-02T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-12-01T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>GRE class: EREM11701. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96733752</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Shabbat Services and Dinner</title>
+			<description>Marcus Hillel Center &lt;br/&gt;Friday, December 2, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;8:30pm &lt;br/&gt;&lt;br/&gt;Join us for student-led Reform, Conservative, and Carlebach (Orthodox) services, followed by a FREE kosher Shabbat dinner. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94456074</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=8bke5jahpexdcvxxcj4n7tgwz4</x-trumba:ealink>
+			<category>2011/12/02 (Fri)</category>
+			<pubDate>02 Dec 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94456074</guid>
+			<xCal:summary>Shabbat Services and Dinner</xCal:summary>
+			<xCal:location>Marcus Hillel Center</xCal:location>
+			<xCal:dtstart>2011-12-02T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-12-02T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-12-03T01:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-12-02T20:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Join us for student-led Reform, Conservative, and Carlebach (Orthodox) services, followed by a FREE kosher Shabbat dinner.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94456074</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Classes End</title>
+			<description>Tuesday, December 6, 2011 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d93915572</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=8cp1fs43h1pm3a5k07ey5npw39</x-trumba:ealink>
+			<category>2011/12/06 (Tue)</category>
+			<pubDate>06 Dec 2011 05:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/93915572</guid>
+			<xCal:summary>Classes End</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2011-12-06T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-12-06T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-12-07T05:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-12-07T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/93915572</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Exam Period</title>
+			<description>Wednesday, December 7&amp;nbsp;&amp;ndash; Saturday, December 17, 2011 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d93915577</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=ctx742fzn4u7a1f64he4e55nzj</x-trumba:ealink>
+			<category>2011/12/07 (Wed)</category>
+			<pubDate>07 Dec 2011 05:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/93915577</guid>
+			<xCal:summary>Exam Period</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2011-12-07T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-12-07T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-12-18T05:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-12-18T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/93915577</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn with Rabbi Adam Starr</title>
+			<description>MHC Cohen Jewish Resource Center &lt;br/&gt;Wednesday, December 7, 2011, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.&lt;br /&gt;&lt;br /&gt;Contact : &lt;a href="mailto:admin@yith.org" target="_blank"&gt;admin@yith.org&lt;/a&gt; or 404-315-1417 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96423466</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=seh26s83jwcf9rfv86j1hgjcbv</x-trumba:ealink>
+			<category>2011/12/07 (Wed)</category>
+			<pubDate>07 Dec 2011 17:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96423466</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96423456</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn with Rabbi Adam Starr</xCal:summary>
+			<xCal:location>MHC Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-12-07T17:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-12-07T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-12-07T18:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-12-07T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.
+
+Contact : admin@yith.org or 404-315-1417</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96423466</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan MCAT Class</title>
+			<description>MHC Segal Social Hall &lt;br/&gt;Wednesday, December 7, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;MCAT Class: MCEM12301. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95977371</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gyatmnt4gm1hx571ajzkjtj38v</x-trumba:ealink>
+			<category>2011/12/07 (Wed)</category>
+			<pubDate>07 Dec 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95977371</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95977346</x-trumba:masterid>
+			<xCal:summary>Kaplan MCAT Class</xCal:summary>
+			<xCal:location>MHC Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-12-07T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-12-07T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-12-08T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-12-07T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>MCAT Class: MCEM12301. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95977371</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Private Event (TBD)</title>
+			<description>MHC: Segal Social Hall &lt;br/&gt;Thursday, December 8, 2011, 5&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96839830</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=8ducs0c5uwyxky4fehceag21e0</x-trumba:ealink>
+			<category>2011/12/08 (Thu)</category>
+			<pubDate>08 Dec 2011 22:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96839830</guid>
+			<xCal:summary>Private Event (TBD)</xCal:summary>
+			<xCal:location>MHC: Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-12-08T22:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-12-08T17:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-12-09T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-12-08T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/96839830</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn with Rabbi Adam Starr</title>
+			<description>MHC Cohen Jewish Resource Center &lt;br/&gt;Wednesday, December 14, 2011, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.&lt;br /&gt;&lt;br /&gt;Contact : &lt;a href="mailto:admin@yith.org" target="_blank"&gt;admin@yith.org&lt;/a&gt; or 404-315-1417 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96423467</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=su57b2vr2p066x4858dryp4dm1</x-trumba:ealink>
+			<category>2011/12/14 (Wed)</category>
+			<pubDate>14 Dec 2011 17:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96423467</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/96423456</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn with Rabbi Adam Starr</xCal:summary>
+			<xCal:location>MHC Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2011-12-14T17:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-12-14T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-12-14T18:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-12-14T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Lively discussion and Jewish learning with Rabbi Adam Starr of Congregation Young Israel. All are welcome. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.
+
+Contact : admin@yith.org or 404-315-1417</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/96423467</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Kaplan MCAT Class</title>
+			<description>MHC Segal Social Hall &lt;br/&gt;Wednesday, December 14, 2011, 6&amp;nbsp;&amp;ndash;&amp;nbsp;9pm &lt;br/&gt;&lt;br/&gt;MCAT Class: MCEM12301. More information at &lt;a href="http://www.kaptest.com/" target="_blank"&gt;www.kaptest.com&lt;/a&gt; or 1-800-KAP-TEST (1-800-527-8378). &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95977373</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4y2ayp92tcc3du9eper5rbyd2r</x-trumba:ealink>
+			<category>2011/12/14 (Wed)</category>
+			<pubDate>14 Dec 2011 23:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95977373</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/95977346</x-trumba:masterid>
+			<xCal:summary>Kaplan MCAT Class</xCal:summary>
+			<xCal:location>MHC Segal Social Hall</xCal:location>
+			<xCal:dtstart>2011-12-14T23:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-12-14T18:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-12-15T02:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-12-14T21:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>MCAT Class: MCEM12301. More information at www.kaptest.com or 1-800-KAP-TEST (1-800-527-8378).</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95977373</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Chanukkah</title>
+			<description>Wednesday, December 21&amp;nbsp;&amp;ndash; Wednesday, December 28, 2011 &lt;br/&gt;&lt;br/&gt;Begins at sundown on December 20 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94346253</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=w8r092kjyxufvbuwhnfcz02jpn</x-trumba:ealink>
+			<category>2011/12/21 (Wed)</category>
+			<pubDate>21 Dec 2011 05:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94346253</guid>
+			<xCal:summary>Chanukkah</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2011-12-21T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2011-12-21T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2011-12-29T05:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2011-12-29T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Begins at sundown on December 20</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94346253</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>MLK Holiday (no classes)</title>
+			<description>Monday, January 16, 2012 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d93915603</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=404xeesvzfk92ntxhh44bv8390</x-trumba:ealink>
+			<category>2012/01/16 (Mon)</category>
+			<pubDate>16 Jan 2012 05:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/93915603</guid>
+			<xCal:summary>MLK Holiday (no classes)</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-01-16T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2012-01-16T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-01-17T05:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2012-01-17T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/93915603</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Classes Begin</title>
+			<description>Wednesday, January 18, 2012 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d93915610</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=c0b86the7g73jc5un5gf4kwthx</x-trumba:ealink>
+			<category>2012/01/18 (Wed)</category>
+			<pubDate>18 Jan 2012 05:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/93915610</guid>
+			<xCal:summary>Classes Begin</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-01-18T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2012-01-18T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-01-19T05:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2012-01-19T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/93915610</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Tu Bish'vat</title>
+			<description>Wednesday, February 8, 2012 &lt;br/&gt;&lt;br/&gt;Begins at sundown on February 7 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94346255</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=wjdsn4t8nvmsdyuzmg6m6t5g0b</x-trumba:ealink>
+			<category>2012/02/08 (Wed)</category>
+			<pubDate>08 Feb 2012 05:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94346255</guid>
+			<xCal:summary>Tu Bish'vat</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-02-08T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2012-02-08T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-02-09T05:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2012-02-09T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Begins at sundown on February 7</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94346255</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, February 14, 2012, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392794</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sja1j9mxb2cfm3c0hr2b4mmvbe</x-trumba:ealink>
+			<category>2012/02/14 (Tue)</category>
+			<pubDate>14 Feb 2012 17:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392794</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392788</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2012-02-14T17:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2012-02-14T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-02-14T18:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2012-02-14T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392794</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Purim</title>
+			<description>Thursday, March 8, 2012 &lt;br/&gt;&lt;br/&gt;Begins at sundown on March 7 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94346257</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=ctjgb470c9phu33ry184ar6jpc</x-trumba:ealink>
+			<category>2012/03/08 (Thu)</category>
+			<pubDate>08 Mar 2012 05:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94346257</guid>
+			<xCal:summary>Purim</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-03-08T05:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2012-03-08T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-03-09T05:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2012-03-09T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Begins at sundown on March 7</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94346257</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Private Event: Laing Reception</title>
+			<description>MHC - entire facility &lt;br/&gt;Saturday, March 10, 2012, 8&amp;nbsp;&amp;ndash;&amp;nbsp;11:30pm &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d96113950</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=8e9zcrcggnpgk2vrek63u7tpte</x-trumba:ealink>
+			<category>2012/03/10 (Sat)</category>
+			<pubDate>11 Mar 2012 01:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/96113950</guid>
+			<xCal:summary>Private Event: Laing Reception</xCal:summary>
+			<xCal:location>MHC - entire facility</xCal:location>
+			<xCal:dtstart>2012-03-11T01:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EST" tzCode="20400">2012-03-10T20:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-03-11T04:30:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EST" tzCode="20400">2012-03-10T23:30:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/96113950</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Spring Break</title>
+			<description>Monday, March 12&amp;nbsp;&amp;ndash; Friday, March 16, 2012 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d93915611</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g3r4w8x00erd5pcnc5htcnu493</x-trumba:ealink>
+			<category>2012/03/12 (Mon)</category>
+			<pubDate>12 Mar 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/93915611</guid>
+			<xCal:summary>Spring Break</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-03-12T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-03-12T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-03-17T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-03-17T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/93915611</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, March 13, 2012, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392795</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=4nuvkmjdf6dgsfwcgvfkbzyr7m</x-trumba:ealink>
+			<category>2012/03/13 (Tue)</category>
+			<pubDate>13 Mar 2012 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392795</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392788</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2012-03-13T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-03-13T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-03-13T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-03-13T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392795</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Atlanta Rabbinical Association</title>
+			<description>Marcus Hillel Center - Arogeti Chapel &lt;br/&gt;Thursday, March 29, 2012, 9:30am&amp;nbsp;&amp;ndash;&amp;nbsp;2pm &lt;br/&gt;&lt;br/&gt;Private Meeting &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d95403392</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=mb4hy6k31fb8yefu8xrhtkh6wf</x-trumba:ealink>
+			<category>2012/03/29 (Thu)</category>
+			<pubDate>29 Mar 2012 13:30:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/95403392</guid>
+			<xCal:summary>Atlanta Rabbinical Association</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Arogeti Chapel</xCal:location>
+			<xCal:dtstart>2012-03-29T13:30:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-03-29T09:30:00</x-trumba:localstart>
+			<xCal:dtend>2012-03-29T18:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-03-29T14:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>Private Meeting</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/95403392</xCal:uid>
+			<x-trumba:categorycalendar>Marcus Hillel Center at Emory University</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Night of First Seder</title>
+			<description>Friday, April 6, 2012 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94346261</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cjcp46n9y73nvy702jbb89z2ux</x-trumba:ealink>
+			<category>2012/04/06 (Fri)</category>
+			<pubDate>06 Apr 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94346261</guid>
+			<xCal:summary>Night of First Seder</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-04-06T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-04-06T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-04-07T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-04-07T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/94346261</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Passover</title>
+			<description>Saturday, April 7&amp;nbsp;&amp;ndash; Saturday, April 14, 2012 &lt;br/&gt;&lt;br/&gt;Begins at sundown on April 6 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94346260</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=40h8sx0e8wgyh3y1a3su36txu0</x-trumba:ealink>
+			<category>2012/04/07 (Sat)</category>
+			<pubDate>07 Apr 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94346260</guid>
+			<xCal:summary>Passover</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-04-07T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-04-07T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-04-15T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-04-15T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Begins at sundown on April 6</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94346260</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, April 10, 2012, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392796</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cy8gduvp8y1m2emepp1gk5x5x8</x-trumba:ealink>
+			<category>2012/04/10 (Tue)</category>
+			<pubDate>10 Apr 2012 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392796</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392788</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2012-04-10T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-04-10T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-04-10T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-04-10T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392796</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Yom HaShoah</title>
+			<description>Thursday, April 19, 2012 &lt;br/&gt;&lt;br/&gt;Begins at sundown on April 18 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94346267</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=m6ec2zf1pnk5vkuryastnswj2a</x-trumba:ealink>
+			<category>2012/04/19 (Thu)</category>
+			<pubDate>19 Apr 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94346267</guid>
+			<xCal:summary>Yom HaShoah</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-04-19T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-04-19T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-04-20T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-04-20T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Begins at sundown on April 18</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94346267</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Yom HaZikaron</title>
+			<description>Wednesday, April 25, 2012 &lt;br/&gt;&lt;br/&gt;Begins at sundown on April 24 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94346269</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=c1446wbgfa494pu6cvatcwv34t</x-trumba:ealink>
+			<category>2012/04/25 (Wed)</category>
+			<pubDate>25 Apr 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94346269</guid>
+			<xCal:summary>Yom HaZikaron</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-04-25T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-04-25T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-04-26T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-04-26T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Begins at sundown on April 24</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94346269</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Yom HaAtzma'ut</title>
+			<description>Thursday, April 26, 2012 &lt;br/&gt;&lt;br/&gt;Begins at sundown on April 25 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94346272</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=wv7v6wxz3pa2e0upbdpudzdm5w</x-trumba:ealink>
+			<category>2012/04/26 (Thu)</category>
+			<pubDate>26 Apr 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94346272</guid>
+			<xCal:summary>Yom HaAtzma'ut</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-04-26T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-04-26T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-04-27T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-04-27T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Begins at sundown on April 25</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94346272</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Classes End</title>
+			<description>Tuesday, May 1, 2012 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d93915622</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=sgjjrcr18vzy01rk25yp9wd14u</x-trumba:ealink>
+			<category>2012/05/01 (Tue)</category>
+			<pubDate>01 May 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/93915622</guid>
+			<xCal:summary>Classes End</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-05-01T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-05-01T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-05-02T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-05-02T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/93915622</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Exam Period</title>
+			<description>Wednesday, May 2&amp;nbsp;&amp;ndash; Friday, May 11, 2012 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d93915627</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gmbmnfw8e9yrxgdxrzexxr93ud</x-trumba:ealink>
+			<category>2012/05/02 (Wed)</category>
+			<pubDate>02 May 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/93915627</guid>
+			<xCal:summary>Exam Period</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-05-02T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-05-02T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-05-12T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-05-12T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/93915627</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, May 8, 2012, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392797</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=0jgjbam16wcmjnbwgkbf7p9cgt</x-trumba:ealink>
+			<category>2012/05/08 (Tue)</category>
+			<pubDate>08 May 2012 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392797</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392788</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2012-05-08T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-05-08T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-05-08T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-05-08T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392797</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lag Ba'Omer</title>
+			<description>Thursday, May 10, 2012 &lt;br/&gt;&lt;br/&gt;Begins at sundown on May 9 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94346275</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=8m9cxpzzvf6ezcmmf1e68spfpr</x-trumba:ealink>
+			<category>2012/05/10 (Thu)</category>
+			<pubDate>10 May 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94346275</guid>
+			<xCal:summary>Lag Ba'Omer</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-05-10T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-05-10T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-05-11T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-05-11T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Begins at sundown on May 9</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94346275</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Commencement</title>
+			<description>Monday, May 14, 2012 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d93915654</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cygdt35w4m8zzgsxbxr458ek75</x-trumba:ealink>
+			<category>2012/05/14 (Mon)</category>
+			<pubDate>14 May 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/93915654</guid>
+			<xCal:summary>Commencement</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-05-14T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-05-14T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-05-15T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-05-15T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description />
+			<xCal:uid>http://uid.trumba.com/event/93915654</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Shavuot</title>
+			<description>Sunday, May 27, 2012 &lt;br/&gt;&lt;br/&gt;Begins at sundown on May 26 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94346278</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=snrm0c3yhg0btjk40nrad8r6ar</x-trumba:ealink>
+			<category>2012/05/27 (Sun)</category>
+			<pubDate>27 May 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94346278</guid>
+			<xCal:summary>Shavuot</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-05-27T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-05-27T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-05-28T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-05-28T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Begins at sundown on May 26</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94346278</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, June 12, 2012, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392798</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=cytj28x2ckbs204p8657g7n480</x-trumba:ealink>
+			<category>2012/06/12 (Tue)</category>
+			<pubDate>12 Jun 2012 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392798</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392788</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2012-06-12T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-06-12T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-06-12T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-06-12T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392798</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, July 10, 2012, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392799</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gju5fty2hrjf171zt4pbzgha4m</x-trumba:ealink>
+			<category>2012/07/10 (Tue)</category>
+			<pubDate>10 Jul 2012 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392799</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392788</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2012-07-10T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-07-10T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-07-10T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-07-10T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392799</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Tisha B'Av</title>
+			<description>Sunday, July 29, 2012 &lt;br/&gt;&lt;br/&gt;Begins at sundown on July 28 &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94346283</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=gctzm1394um9wp556twcx9a0rm</x-trumba:ealink>
+			<category>2012/07/29 (Sun)</category>
+			<pubDate>29 Jul 2012 04:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94346283</guid>
+			<xCal:summary>Tisha B'Av</xCal:summary>
+			<xCal:location />
+			<xCal:dtstart>2012-07-29T04:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-07-29T00:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-07-30T04:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-07-30T00:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>true</x-microsoft:cdo-alldayevent>
+			<xCal:description>Begins at sundown on July 28</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94346283</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, August 14, 2012, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392800</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=g7re80jgwbhdyzjsb8sjfezntk</x-trumba:ealink>
+			<category>2012/08/14 (Tue)</category>
+			<pubDate>14 Aug 2012 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392800</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392788</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2012-08-14T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-08-14T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-08-14T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-08-14T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392800</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, September 11, 2012, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392801</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=snf8ueaduwzjerfxzngrrkjcth</x-trumba:ealink>
+			<category>2012/09/11 (Tue)</category>
+			<pubDate>11 Sep 2012 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392801</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392788</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2012-09-11T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-09-11T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-09-11T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-09-11T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392801</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+		<item>
+			<title>Lunch &#38; Learn: Discussions on Jewish Philosophy &#38; Theology</title>
+			<description>Marcus Hillel Center - Cohen Jewish Resource Center &lt;br/&gt;Tuesday, October 9, 2012, 12&amp;nbsp;&amp;ndash;&amp;nbsp;1pm &lt;br/&gt;&lt;br/&gt;God, Torah &amp;amp; Israel: Discussions on Jewish Philosophy &amp;amp; Theology&lt;br /&gt;&lt;br /&gt;Lunch &amp;amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road. &lt;br/&gt;&lt;br/&gt;</description>
+			<link>http://emoryhillel.org/news/calendar.html?trumbaEmbed=view%3devent%26eventid%3d94392802</link>
+			<x-trumba:ealink>http://eventactions.com/ea.aspx?ea=Atmc&amp;e32=0gsca13ab21d8ebza5b285h18j</x-trumba:ealink>
+			<category>2012/10/09 (Tue)</category>
+			<pubDate>09 Oct 2012 16:00:00 GMT</pubDate>
+			<guid isPermaLink="false">http://uid.trumba.com/event/94392802</guid>
+			<x-trumba:masterid isPermaLink="false">http://uid.trumba.com/master/94392788</x-trumba:masterid>
+			<xCal:summary>Lunch &amp; Learn: Discussions on Jewish Philosophy &amp; Theology</xCal:summary>
+			<xCal:location>Marcus Hillel Center - Cohen Jewish Resource Center</xCal:location>
+			<xCal:dtstart>2012-10-09T16:00:00Z</xCal:dtstart>
+			<x-trumba:localstart tzAbbr="EDT" tzCode="20400">2012-10-09T12:00:00</x-trumba:localstart>
+			<xCal:dtend>2012-10-09T17:00:00Z</xCal:dtend>
+			<x-trumba:localend tzAbbr="EDT" tzCode="20400">2012-10-09T13:00:00</x-trumba:localend>
+			<x-microsoft:cdo-alldayevent>false</x-microsoft:cdo-alldayevent>
+			<xCal:description>God, Torah &amp; Israel: Discussions on Jewish Philosophy &amp; Theology
+
+Lunch &amp; Learn every other Tuesday from noon to 1 PM beginning September 13, 2011. Explore BIG ideas in Judaism drawing on various thinkers and texts throughout Jewish history. Drop in for lunch, stimulating learning and open discussion on a wide range of topics with Rabbi Elana Zelony of Congregation Shearith Israel. Please arrive early to order lunch, which is available for sale at Goodfriend's Grill in the Marcus Hillel Center. Parking is available at the 1525 Clinic on North Gatewood Road.</xCal:description>
+			<xCal:uid>http://uid.trumba.com/event/94392802</xCal:uid>
+			<x-trumba:categorycalendar>Hillel at Emory|Jewish Learning</x-trumba:categorycalendar>
+		</item>
+	</channel>
+</rss>

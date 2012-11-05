@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:blogChannel="http://backend.userland.com/blogChannelModule">
+
+<channel>
+<title>Goizueta Business School</title>
+<link>http://www.goizueta.emory.edu/</link>
+<description>Principled Leaders for Global Enterprise</description>
+<language>en</language>
+<copyright>Copyright 2001-2011, Goizueta Business School, Emory University</copyright>
+<pubDate>Sat, 22 Oct 2011 04:00:00 GMT</pubDate>
+<lastBuildDate>Sat, 22 Oct 2011 04:00:00 GMT</lastBuildDate>
+
+<image>
+<title>Goizueta Business School</title>
+<url>http://www.goizueta.emory.edu/images/Goizueta_Logo_RSS.gif</url>
+<link>http://www.goizueta.emory.edu/</link>
+<width>122</width>
+<height>21</height>
+<description>Goizueta Business School at Emory University</description>
+</image>
+
+<item>
+<title>Evening MBA Open House</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1392</link>
+<description>Evening MBA Open House</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1392</guid>
+<pubDate>Tue, 25 Oct 2011 22:30:00 GMT</pubDate>
+</item>
+
+<item>
+<title>MBA Interviews Miami/Ft. Lauderdale</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1403</link>
+<description>MBA Interviews Miami/Ft. Lauderdale</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1403</guid>
+<pubDate>Thu, 27 Oct 2011 13:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Deans Speaker Series: Clarence Otis Jr.</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1404</link>
+<description>Goizueta Dean's Speaker Series event featuring Clarence Otis Jr. </description>
+<category>Speakers</category>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1404</guid>
+<pubDate>Thu, 27 Oct 2011 21:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>MBA Prospective Student Networking Reception - Miami</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1402</link>
+<description>MBA Prospective Student Networking Reception- Miami</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1402</guid>
+<pubDate>Thu, 27 Oct 2011 23:30:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Inside the MBA Raleigh</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1323</link>
+<description>Inside the MBA</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1323</guid>
+<pubDate>Tue, 01 Nov 2011 22:30:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Inside the MBA Charlotte</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1326</link>
+<description>Inside the MBA</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1326</guid>
+<pubDate>Wed, 02 Nov 2011 22:30:00 GMT</pubDate>
+</item>
+
+<item>
+<title>MBA Interviews New York</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1382</link>
+<description>MBA Interviews New York</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1382</guid>
+<pubDate>Thu, 03 Nov 2011 19:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>MBA Interviews San Francisco</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1383</link>
+<description>Admission Interviews San Francisco</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1383</guid>
+<pubDate>Thu, 03 Nov 2011 19:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Inside the MBA Atlanta</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1327</link>
+<description>Inside the MBA</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1327</guid>
+<pubDate>Thu, 03 Nov 2011 22:30:00 GMT</pubDate>
+</item>
+
+<item>
+<title>MBA Prospective Student Reception - San Francisco</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1375</link>
+<description>MBA Prospective Student Reception - San Francisco</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1375</guid>
+<pubDate>Thu, 03 Nov 2011 23:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>MBA Prospective Student Reception - New York</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1378</link>
+<description>MBA Prospective Student Reception - New York</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1378</guid>
+<pubDate>Thu, 03 Nov 2011 23:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Inside the MBA Pittsburgh</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1322</link>
+<description>Inside the MBA</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1322</guid>
+<pubDate>Mon, 07 Nov 2011 23:30:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Inside the MBA Philadelphia</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1328</link>
+<description>Inside the MBA</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1328</guid>
+<pubDate>Wed, 09 Nov 2011 23:30:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Women's MBA Open House</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1368</link>
+<description>Women's MBA Open House</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1368</guid>
+<pubDate>Sat, 12 Nov 2011 17:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Inside the MBA Austin</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1329</link>
+<description>Inside the MBA</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1329</guid>
+<pubDate>Wed, 16 Nov 2011 23:30:00 GMT</pubDate>
+</item>
+
+<item>
+<title>MBA Information Session -  Paraguay</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1143</link>
+<description>MBA Information Session - Paraguay</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1143</guid>
+<pubDate>Thu, 17 Nov 2011 00:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Inside the MBA Dallas</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1330</link>
+<description>Inside the MBA</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1330</guid>
+<pubDate>Thu, 17 Nov 2011 23:30:00 GMT</pubDate>
+</item>
+
+<item>
+<title>MBA Interviews Detroit</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1380</link>
+<description> Admissions Interviews Detroit </description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1380</guid>
+<pubDate>Tue, 22 Nov 2011 14:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Super Saturday (with special military programming): Full-Time MBA Admissions Event</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1366</link>
+<description>Recruiting Event for One-Year and Two-Year MBA prospective candidates</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1366</guid>
+<pubDate>Sat, 03 Dec 2011 13:00:00 GMT</pubDate>
+</item>
+
+<item>
+<title>Inside the MBA New Orleans</title>
+<link>http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1331</link>
+<description>Inside the MBA</description>
+<guid isPermaLink="true">http://www.goizueta.emory.edu/cgi-bin/te/te_preview.pl?id=1331</guid>
+<pubDate>Mon, 05 Dec 2011 23:30:00 GMT</pubDate>
+</item>
+
+</channel>
+</rss>
+
