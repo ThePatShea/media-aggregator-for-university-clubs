@@ -1,1 +1,1 @@
-Campus Bubble - Product 1: Media aggregator for university clubs
+Media aggregator for university clubs
