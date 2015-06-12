@@ -10,8 +10,6 @@ This web app crawls the Internet to automatically aggregate all of the photos/vi
 
 #### Disclaimers
 
-| Disclaimers
-
 ---
 
 - I made most of my commits on this repo using another Github account called "campus-bubble". This was the account I used back when I was still working with the company. If you need to verify this, please contact Campus Bubble's Chief of Product, Giovanni Hobbins: giovanni@campusbubble.com
