@@ -1,6 +1,7 @@
 # Media Aggregator for University Clubs
 
 ##### Disclaimers:
+
 I built this web app when I was first learning how to make large products. I didn’t understand the importance of using an MVC framework back then, so I invented my own structure. As a result, you may find it difficult to find your way around the directory structure. To see my more recent creations, please visit these two repos:
 #  
 
