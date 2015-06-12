@@ -7,9 +7,9 @@
 ---
 
 ##### Disclaimers:
-I built this web app when I was first learning how to make large products. I didn’t understand the importance of using an MVC framework back then, so I invented my own structure. As a result, you may find it difficult to find your way around the directory structure. To see my more recent creations that utilize MVC and MV* structures, please visit these two repos:
-- [Internal University Social Network](https://github.com/ThePatShea/internal-university-social-network)
-- [Advanced Internal University Social Network](https://github.com/ThePatShea/advanced-internal-university-social-network)
+- I built this web app when I was first learning how to make large products. I didn’t understand the importance of using an MVC framework back then, so I invented my own structure. As a result, you may find it difficult to find your way around the directory structure. To see my more recent creations that utilize MVC and MV* structures, please visit these two repos:
+-- [Internal University Social Network](https://github.com/ThePatShea/internal-university-social-network)
+-- [Advanced Internal University Social Network](https://github.com/ThePatShea/advanced-internal-university-social-network)
 
 <hr/>
 
