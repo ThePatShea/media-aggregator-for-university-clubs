@@ -1,8 +1,10 @@
 ### Media Aggregator for University Clubs
+
 <hr/>
 
-
 <b>Product description:</b> My first big project. It crawls the Internet to automatically aggregate all of the photos/videos/events/news articles relevant to clubs at your university, and then sorts them into separate pages for each club. Students used the product to discover new clubs, manage their clubs’ online presence, and stay up-to-date with what was happening at their university.
+
+<hr/>
 
 ##### Disclaimers:
 I built this web app when I was first learning how to make large products. I didn’t understand the importance of using an MVC framework back then, so I invented my own structure. As a result, you may find it difficult to find your way around the directory structure. To see my more recent creations, please visit these two repos:
