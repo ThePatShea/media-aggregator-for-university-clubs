@@ -5,7 +5,6 @@ This web app crawls the Internet to automatically aggregate all of the photos/vi
 
 ---
 
-
 #### Disclaimers
 1. I made most of my commits on this repo using another Github account called "campus-bubble". This was the account I used back when I was still working with the company. If you need to verify this, please contact Campus Bubble's Chief of Product, Giovanni Hobbins: giovanni@campusbubble.com
 
@@ -15,12 +14,11 @@ This web app crawls the Internet to automatically aggregate all of the photos/vi
 
 ---
 
-
-<b>Technologies utilized:</b>
-PHP/SQL back end
-Some Javascript and a few front-end libraries
-Facebook API for aggregating photos/events and for users to log in to the site to post new content
-YouTube API for aggregating videos
-Custom-built PHP web scrapers to aggregate news articles and events from non-Facebook sources
+####Technologies utilized
+- PHP/SQL back end
+- Some Javascript and a few front-end libraries
+- Facebook API for aggregating photos/events and for users to log in to the site to post new content
+- YouTube API for aggregating videos
+- Custom-built PHP web scrapers to aggregate news articles and events from non-Facebook sources
 
 <b>Resources/timeline:</b> I built this product single-handedly in 6 months.
