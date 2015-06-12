@@ -14,7 +14,7 @@ This web app crawls the Internet to automatically aggregate all of the photos/vi
 
 ---
 
-#### Technologies utilized
+#### Technologies Utilized
 - PHP/SQL back end
 - Some Javascript and a few front-end libraries
 - Facebook API for aggregating photos/events and for users to log in to the site to post new content
