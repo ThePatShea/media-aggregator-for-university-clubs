@@ -6,7 +6,6 @@
 This web app crawls the Internet to automatically aggregate all of the photos/videos/events/news articles relevant to clubs at your university, then sorts them into separate pages for each club. Students used the product to discover new clubs, manage their clubs’ online presence, and stay up-to-date with what was happening at their university.
 
 ---
----
 
 #### Disclaimers
 
