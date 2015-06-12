@@ -25,5 +25,5 @@ Students used the product to discover new clubs, manage their clubs’ online pr
 
 ---
 
-#### Resources/timeline
+#### Resources/Timeline
 I built this product single-handedly in 6 months.
