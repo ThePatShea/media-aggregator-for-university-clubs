@@ -1,4 +1,4 @@
-### Media Aggregator for University Clubs
+## Media Aggregator for University Clubs
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-##### Disclaimers:
+### Disclaimers
 - I made most of my commits on this repo using another Github account called "campus-bubble". This was the account I used back when I was still working with the company. If you need to verify this, please contact Campus Bubble's Chief of Product, Giovanni Hobbins: giovanni@campusbubble.com
 - I built this web app when I was first learning how to make large products. I didn’t understand the importance of using an MVC framework back then, so I invented my own structure. As a result, you may find it difficult to find your way around the directory structure. To see my more recent creations that utilize MVC and MV* structures, please visit these two repos:
   - [Internal University Social Network](https://github.com/ThePatShea/internal-university-social-network)
