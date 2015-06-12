@@ -1,4 +1,6 @@
-<h3>Media aggregator for university clubs</h3>
+<h3 style="text-decoration: underline">Media aggregator for university clubs</h3>
+
+
 
 <b>Product description:</b> My first big project. It crawls the Internet to automatically aggregate all of the photos/videos/events/news articles relevant to clubs at your university, and then sorts them into separate pages for each club. Students used the product to discover new clubs, manage their clubs’ online presence, and stay up-to-date with what was happening at their university.
 
