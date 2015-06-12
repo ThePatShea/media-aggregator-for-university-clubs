@@ -1,4 +1,4 @@
-<h3 style="text-decoration: underline">Media aggregator for university clubs</h3>
+<h3><u>Media aggregator for university clubs</u></h3>
 
 
 
