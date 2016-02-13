@@ -11,9 +11,9 @@ Students used the product to discover new clubs, manage their clubs’ online pr
 This web app is no longer online, but you can still view some images of it. These are mockups, but screenshots would look identical, because I'm awesome at front end.
 
 **View the images:**
-- The [Home](https://dmdf3fr77elxm.cloudfront.net/portfolio_assets/62952/pictures/1435028019/original.png) page, which students visited to see an overview of the latest happenings at their university.
-- The [Explore](https://dmdf3fr77elxm.cloudfront.net/portfolio_assets/62954/pictures/1435028478/original.png) page. Students used this page to discover media produced by their school's clubs. They could search by content type, category, or popularity.
-- The [Calendar](https://dmdf3fr77elxm.cloudfront.net/portfolio_assets/62956/pictures/1435028766/original.png) page. Students used this page to discover upcoming events at their university.
+- The [Home](https://d2p9ez1wat05y7.cloudfront.net/portfolio_assets/62952/pictures/1435028019/original.png) page, which students visited to see an overview of the latest happenings at their university.
+- The [Explore](https://d2p9ez1wat05y7.cloudfront.net/portfolio_assets/62954/pictures/1435028478/original.png) page. Students used this page to discover media produced by their school's clubs. They could search by content type, category, or popularity.
+- The [Calendar](https://d2p9ez1wat05y7.cloudfront.net/portfolio_assets/62956/pictures/1435028766/original.png) page. Students used this page to discover upcoming events at their university.
 
 ---
 
